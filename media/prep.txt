@@ -1,0 +1,46 @@
+Name,Branch,Year,Role,Team Name,Roll No,Phone No
+Bhavish reddy,Computer Science,3,Member,ADB,23881A05FN,
+Matta Debora Rani,Computer Science and Engineering,2,Lead,Invicta Dynamo,24881A05AU,+91 95056 50534
+R.SIRI,Computer Science and Engineering,2,Member,Invicta Dynamo,24881A05BK,
+Dhikshitha,Information Technology,3,Lead,ADB,23881A1278,6301414446
+Ashvith reddy,Information Technology,3,Member,ADB,23881A1270,
+K.RISHITHA REDDY,Electronic and Communication Engineering,2,Member,Invicta Dynamo,24881A0498,
+Mohd Rayanuddin,ECE,3,Lead,Shield,23881A0434,+91 73862 58630
+Punna Pranitha,ECE,3,Member,Vishvarupa,23881A04J3,
+Shaik Arif,ECE,3,Member,Vishvarupa,23881A04J5,
+Vallu Somnath Reddy,ECE,3,Lead,Vishvarupa,23881A04J9,6305039526
+Dhivyah Penamala,CSE,3,Member,AutiCure,23881A05CP,
+Manish Goud,EEE,3,Member,AutiCure,23881A0211,
+Shourya Santapoor,EEE,3,Lead,AutiCure,23881A0249,7396086442
+Akshay Bale,CSE,3,Member,Team Kanyarasi,23881A05D4,
+Mani shankar,CSE,3,Member,Team Kanyarasi,23881A05K2,
+Anirvesh Pally,CSE,3,Lead,Team Kanyarasi,23881A05G8,8688425640
+MAMIDI VINOD,CSE,2,Lead/Member,Raitusevak360,24881A05JR,75692 75251
+PATTI ANIL REDDY,CSE,2,Member,Raitusevak360,24881A05KB,
+Sri Ram Reddy Yadma,CSE,2,Lead,Tech bytes,24881A05X3,85208 04606
+S.Vamshi Teja,CSE,2,Member,Tech bytes,24881A05X1,
+R.Pranav Ved,CSE E,2,Member,Tech bytes,24881A05W5,
+Ajaya simha reddy,CSE,2,Lead,Limitless Loop,24881A0516,+91 73309 50337
+Somanadh Kollavajjala,CSE,2,Member,Limitless Loop,24881A0522,
+CH.NIKHIL,CSE,2,Member,Limitless Loop,24881A0509,
+K Satya Sai Nikhil,CSE,2,Lead,Mutlipods connector,24881A05DC,8639885561
+M. Akshith,Cse,2,Member,Mutlipods connector,24881a05at,
+T. Charan,CSE,2,Member,Mutlipods connector,24881a05eg,
+SATHWIK,CSE,2,Lead,Epic Executors,24881A05V7,7075880091
+SAI RUTHVIK,CSE,2,Member,Epic Executors,24881A05E7,
+ABINESH,CSE,2,Member,Epic Executors,258858A0515,
+Vinitha Bachu,CSM,3,Member,Team Nivaaran,23881A6668,
+Bhargavi Punna,CSM,3,Member,Team Nivaaran,23881A66A6,
+Sharath Bandaari,CSM,3,Lead,Team Nivaaran,23881A6609,9014969461
+Soma Shruthi,CSM,3,Member,Shield,24885A6607,
+N. Sravani,CSD,3,Member,SHENISHETTY SUCHIR,24885A6711,
+R. Balraj,CSD,3,Member,SHENISHETTY SUCHIR,24885A6713,
+Shenishetty Suchir,CSD,3,Lead,SHENISHETTY SUCHIR,24885A6714,9515865965
+K Shanthi Vardhan,CSD,2,Member,Team Wings,24881A6728,
+D Hima Varshini,CSD,2,Member,Team Wings,24881A6711,
+D Cheran Veera Venkat,CSD,2,Lead,Team Wings,24881A6713,+91 96767 49325
+E Durgaprasad,Mechanical Engineering,3,Member,KNEEX,24885A0306,
+V Mahesh Chary,Mechanical Engineering,3,Member,KNEEX,24885A0330,
+P Varaprasad reddy,Mechanical Engineering,3,Lead,KNEEX,24885A0319,8247683969
+S Akhil,Mechanical Engineering,4,Lead,CADverse,23885A0317,9391032771
+Y Ajay,Mechanical Engineering,4,Member,CADverse,23885A0321,
