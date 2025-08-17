@@ -26,6 +26,7 @@ def upload_note(request):
 
         note = Note(subject=subject, unit=unit, title=title, file=filename)
         note.save()
+        print(f"Note uploaded: {note}")
 
         return JsonResponse({"message": "Note uploaded successfully!"})
 
