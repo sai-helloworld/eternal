@@ -1,0 +1,7 @@
+[project]
+name = "eternal-backend"
+version = "0.1.0"
+dependencies = [
+    "django",
+    "django-cors-headers",
+]
